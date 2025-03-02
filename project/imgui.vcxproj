@@ -141,6 +141,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="..\backends\imgui_impl_opengl3.cpp" />
     <ClCompile Include="..\backends\imgui_impl_sdl3.cpp" />
     <ClCompile Include="..\backends\imgui_impl_sdlgpu3.cpp" />
     <ClCompile Include="..\imgui.cpp" />
